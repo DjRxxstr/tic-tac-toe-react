@@ -89,6 +89,13 @@ src/
 5. If all squares are filled without a winner, the game ends in a draw
 6. Click "Rematch" to start a new game
 
+
+## Live Demo
+
+[Tic Tac Toe project live demo](https://tic-tac-toe-react-khaki-omega.vercel.app/)
+
+
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
